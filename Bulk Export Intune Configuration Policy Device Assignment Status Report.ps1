@@ -23,9 +23,9 @@
 #=================================================================================================================================================
 #------------------------------------------------------ User Input Section Start------------------------------------------------------------------
 #=================================================================================================================================================
-$tenantNameOrID  = "d914085e-e994-4c53-b111-0f20b7f866bf"       # Tenant Name or ID
-$clientAppId     = "d546c729-2aa7-4665-b246-e32af60743ea"       # Client Application ID
-$clientAppSecret = "oQX8Q~ryqtoFl_C6A9eJ4DqZoGADoSxQ25bysa~s"       # Client Application Secret
+$tenantNameOrID  = "xxxxxxxxxxxxxx"       # Tenant Name or ID
+$clientAppId     = "xxxxxxxxxxxxxx"       # Client Application ID
+$clientAppSecret = "xxxxxxxxxxxxxx"       # Client Application Secret
 
 # List of Policy IDs
 $PolicyIDs = @(
